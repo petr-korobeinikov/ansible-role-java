@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/pkorobeinikov/ansible-role-java.svg?branch=master)](https://travis-ci.org/pkorobeinikov/ansible-role-java)
 
-ansible-role-java
-=================
+pkorobeinikov.java
+==================
 
 Java installation.
 
